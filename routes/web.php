@@ -14,6 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return redirect('http://127.0.0.1/telsalfix/');
+    return redirect('https://your-app-name.up.railway.app/telsalfix/');
 
 });
