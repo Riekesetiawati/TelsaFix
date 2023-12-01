@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return redirect('https://tracking.up.railway.app/telsalfix/');
+    return redirect('viaduct.proxy.rlwy.net:42670/index.php');
 });
